@@ -1,0 +1,15 @@
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\bin\Debug\net7.0\Task23.exe
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\bin\Debug\net7.0\Task23.deps.json
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\bin\Debug\net7.0\Task23.runtimeconfig.json
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\bin\Debug\net7.0\Task23.dll
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\bin\Debug\net7.0\Task23.pdb
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\obj\Debug\net7.0\Task23.csproj.AssemblyReference.cache
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\obj\Debug\net7.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\obj\Debug\net7.0\Task23.AssemblyInfoInputs.cache
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\obj\Debug\net7.0\Task23.AssemblyInfo.cs
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\obj\Debug\net7.0\Task23.csproj.CoreCompileInputs.cache
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\obj\Debug\net7.0\Task23.dll
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\obj\Debug\net7.0\refint\Task23.dll
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\obj\Debug\net7.0\Task23.pdb
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\obj\Debug\net7.0\Task23.genruntimeconfig.cache
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task23\obj\Debug\net7.0\ref\Task23.dll

@@ -1,0 +1,15 @@
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\obj\Debug\net7.0\Task21.csproj.AssemblyReference.cache
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\obj\Debug\net7.0\Task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\obj\Debug\net7.0\Task21.AssemblyInfoInputs.cache
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\obj\Debug\net7.0\Task21.AssemblyInfo.cs
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\obj\Debug\net7.0\Task21.csproj.CoreCompileInputs.cache
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\bin\Debug\net7.0\Task21.exe
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\bin\Debug\net7.0\Task21.deps.json
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\bin\Debug\net7.0\Task21.runtimeconfig.json
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\bin\Debug\net7.0\Task21.dll
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\bin\Debug\net7.0\Task21.pdb
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\obj\Debug\net7.0\Task21.dll
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\obj\Debug\net7.0\refint\Task21.dll
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\obj\Debug\net7.0\Task21.pdb
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\obj\Debug\net7.0\Task21.genruntimeconfig.cache
+C:\Users\mksn0\Desktop\ТретьеДЗC#\Task21\obj\Debug\net7.0\ref\Task21.dll
